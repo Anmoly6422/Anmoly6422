@@ -1,13 +1,5 @@
 <!-- PROFILE HEADER IMAGE -->
-<p align="center">
-  <img 
-       src="animated.png" 
-       alt="Top Image"
-       width="500"
-       height="200"
-       style="border-radius: 30px;"
-  />
-</p>
+
 
 <!-- PROFILE HEADER -->
 <h1 align="center">
@@ -96,10 +88,12 @@
   </a>
 </div>
 
+## 📈 Activity Graph
+
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
+  />
 </div>
 
 

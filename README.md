@@ -92,7 +92,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
   />
 </div>
 
@@ -102,7 +102,7 @@
 <!-- ## 🏆 GitHub Achievements (All-Time)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh28Pandey&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anmoly6422&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---

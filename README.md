@@ -9,8 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Developer-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/Frontend%20Developer-%2300C4FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%2300C4FF?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23000000?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Problem%20Solver-%238A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
@@ -19,7 +20,7 @@
 ## 🧑‍💼 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering** @ **Kanpur Institute of Technology**
-- 🌱 Learning **Full Stack Development**, exploring and Practicing **DSA**
+- 🌱 Learning **Full Stack Development and Mobile Development**, exploring and Practicing **DSA**
 - 🛠️ Passionate about building **user-centric products**
 - 🤝 Open to **collaboration**, **internships**, and **tech community involvement**
 
@@ -46,7 +47,7 @@
 ### 🧩 Frameworks / Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,nextjs,tailwind,reactnative" />
 </p>
 
 ---

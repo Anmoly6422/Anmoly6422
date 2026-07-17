@@ -84,6 +84,7 @@
 
 | Project | Tech Stack | Description | Source Code |
 |---------|------------|--------------|--------------|
+| TIC-TAC-TOE | React Native, TypeScript | A modern two-player Tic Tac Toe game featuring turn-based gameplay, automatic win and draw detection, and a clean, responsive user interface. | [GitHub](https://github.com/Anmoly6422/TIC-TAC-TOE) |
 | CurrencyConvertor | React Native, TypeScript | A sleek and intuitive currency converter that enables users to convert between multiple international currencies through a clean, responsive interface with fast and accurate conversions. | [GitHub](https://github.com/Anmoly6422/CurrencyConvertor) |
 | Roll-The-Dice | React Native, TypeScript | A simple dice-rolling app with a smooth animated roll effect — tap the button to roll a random die (1–6). | [GitHub](https://github.com/Anmoly6422/Roll-The-Dice) |
 | PassForge | React Native, TypeScript, Formik, Yup | A modern password generator with a glassmorphic UI that creates strong, customizable passwords with adjustable length, character-set toggles, a strength meter, and one-tap clipboard copy. | [GitHub](https://github.com/Anmoly6422/PassForge) |

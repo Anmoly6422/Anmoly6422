@@ -69,6 +69,8 @@
 
 | Project                  | Tech Stack                                                                 | Live Demo                                                              |
 |---------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+|  Anmol-Portfolio | React, Vite, Tailwind CSS, GSAP, Three.js, Framer Motion | [Explore](https://heyanmol.vercel.app/) |
+
 | Mystry Messages           | Next.js, React, TypeScript, MongoDB, NextAuth, Tailwind CSS                 | [Explore](https://mystry-messages-drab.vercel.app/)                     |
 | Job Application Tracker   | Next.js, React, TypeScript, MongoDB, NextAuth, Tailwind CSS, dnd-kit        | [Explore](https://job-application-tracker-five-lime.vercel.app/)        |
 | Event Planner             | Next.js, React, TypeScript, MongoDB, Tailwind CSS                          | [Explore](https://event-planner-sepia-eight.vercel.app/)                |

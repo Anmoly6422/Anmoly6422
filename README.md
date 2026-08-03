@@ -18,33 +18,23 @@
 
 <br/>
 
-<div align="center">
-
 ## 🚀 About Me
-
-</div>
 
 ```yaml
 name: Anmol Yadav
-education: "B.Tech in Computer Science & Engineering @ Kanpur Institute of Technology"
+education: "B.Tech in Computer Science &amp; Engineering @ Kanpur Institute of Technology"
 roles: ["Full Stack Developer 💻", "Mobile App Developer 📱", "DSA Problem Solver 🧠"]
 currently_learning: ["Advanced Full Stack Patterns", "Mobile Development", "Advanced DSA"]
-currently_building: "Real-world web & mobile apps that solve real problems"
+currently_building: "Real-world web &amp; mobile apps that solve real problems"
 looking_to_collaborate_on: ["Open Source", "Internships", "Tech Communities"]
 fun_fact: "I debug faster than I make chai ☕"
 ```
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 🛠️ Tech Arsenal
 
-<br/>
+<div align="center">
 
 **Languages**
 
@@ -52,15 +42,15 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&amp;theme=dark" />
 
-<br/><br/><br/>
+<br/><br/>
 
-**Frameworks & Libraries**
+**Frameworks &amp; Libraries**
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,bootstrap,reactnative&amp;theme=dark" />
 
-<br/><br/><br/>
+<br/><br/>
 
 **Databases**
 
@@ -68,9 +58,9 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&amp;theme=dark" />
 
-<br/><br/><br/>
+<br/><br/>
 
-**Tools & Platforms**
+**Tools &amp; Platforms**
 
 <br/><br/>
 
@@ -80,15 +70,7 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 🔥 Featured Web Projects
-
-</div>
 
 <div align="center">
 
@@ -135,21 +117,13 @@ HTML5 · CSS3 · Vanilla JS · Canvas API — a fun arcade-style fighting game
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
 ## 📱 Mobile Development Projects
-
-</div>
 
 <div align="center">
 
 | App | Stack | What it does | Links |
 |---|---|---|---|
-| 🏠 **KRIBB** | React Native · Expo · TypeScript | Real-estate app with Clerk auth, Supabase backend, search & favorites | [Code](https://github.com/Anmoly6422/Kribb) · [APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
+| 🏠 **KRIBB** | React Native · Expo · TypeScript | Real-estate app with Clerk auth, Supabase backend, search &amp; favorites | [Code](https://github.com/Anmoly6422/Kribb) · [APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
 | ❌⭕ **Tic-Tac-Toe** | React Native · TypeScript | Two-player game with win/draw detection | [Code](https://github.com/Anmoly6422/TIC-TAC-TOE) · [APK](https://expo.dev/accounts/anmoly6422s-team/projects/tictactoe/builds/13a60071-6507-47a5-9172-2099abf68a43) |
 | 💱 **CurrencyConvertor** | React Native · TypeScript | Fast, accurate multi-currency converter | [Code](https://github.com/Anmoly6422/CurrencyConvertor) |
 | 🎲 **Roll-The-Dice** | React Native · TypeScript | Animated dice roller | [Code](https://github.com/Anmoly6422/Roll-The-Dice) |
@@ -160,13 +134,9 @@ HTML5 · CSS3 · Vanilla JS · Canvas API — a fun arcade-style fighting game
 
 <br/>
 
----
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
-
-## 📊 GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anmoly6422&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF2E9F&amp;icon_color=00F5FF&amp;text_color=c9d1d9&amp;count_private=true" height="165"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anmoly6422&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF2E9F&amp;text_color=c9d1d9" height="165"/>
@@ -175,59 +145,33 @@ HTML5 · CSS3 · Vanilla JS · Canvas API — a fun arcade-style fighting game
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ## 📈 Activity Graph
 
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;hide_border=true&amp;area=true&amp;color=00F5FF&amp;line=FF2E9F" width="100%"/>
-
 </div>
 
 <br/>
-
----
-
-<br/>
-
-<div align="center">
 
 ## 🗓️ Contribution Calendar
 
-<img src="https://ghchart.rshah.org/FF2E9F/Anmoly6422" alt="Anmol's GitHub contribution chart" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
+<img src="https://ghchart.rshah.org/FF2E9F/Anmoly6422" alt="Anmol's GitHub contribution chart" width="100%"/>
+</div>
 
 ## 🐍 Contribution Snake
 
 > _The snake below literally eats the calendar above, one commit at a time._
 
+<div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
-
 </div>
 
 <br/>
 
----
-
-<br/>
+## 🤝 Let's Connect
 
 <div align="center">
-
-## 🤝 Let's Connect
 
 <!-- Replace the # links below with your real profile URLs -->
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF2E9F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>

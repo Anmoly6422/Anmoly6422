@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C4FF&height=220&section=header&text=Anmol%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C4FF&height=220&section=header&text=Anmol%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anmol+%F0%9F%91%8B;B.Tech+CSE+Undergrad;Full+Stack+Developer;DSA+%26+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anmol+%F0%9F%91%8B;B.Tech+CSE+Undergrad;Full+Stack+Developer;Mobile+App+Developer+%F0%9F%93%B1;DSA+%26+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
@@ -23,8 +23,9 @@
 ```yaml
 name: Anmol Yadav
 education: "B.Tech in Computer Science & Engineering @ Kanpur Institute of Technology"
-currently_learning: ["Full Stack Development", "Mobile Development", "Advanced DSA"]
-currently_building: "Real-world apps that solve real problems"
+roles: ["Full Stack Developer 💻", "Mobile App Developer 📱", "DSA Problem Solver 🧠"]
+currently_learning: ["Advanced Full Stack Patterns", "Mobile Development", "Advanced DSA"]
+currently_building: "Real-world web & mobile apps that solve real problems"
 looking_to_collaborate_on: ["Open Source", "Internships", "Tech Communities"]
 fun_fact: "I debug faster than I make chai ☕"
 ```
@@ -144,7 +145,17 @@ HTML5 · CSS3 · Vanilla JS · Canvas API — a fun arcade-style fighting game
 
 <br/>
 
+## 🗓️ Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/8A2BE2/Anmoly6422" alt="Anmol's GitHub contribution chart" width="100%"/>
+
+</div>
+
 ## 🐍 Contribution Snake
+
+> _The snake below literally eats the calendar above, one commit at a time._
 
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>

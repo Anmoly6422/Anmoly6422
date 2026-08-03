@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2E9F,50:8A2BE2,100:00F5FF&amp;height=220&amp;section=header&amp;text=Anmol%20Yadav&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20Mobile%20App%20Developer%20%7C%20DSA%20Enthusiast&amp;descAlignY=58&amp;descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2E9F,50:8A2BE2,100:00F5FF&amp;height=220&amp;section=header&amp;text=Anmol%20Yadav&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20and%20Mobile%20App%20Developer%20%7C%20DSA%20Enthusiast&amp;descAlignY=58&amp;descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2500&amp;pause=900&amp;color=FF2E9F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Anmol+%F0%9F%91%8B;B.Tech+CSE+Undergrad;Full+Stack+Developer;Mobile+App+Developer+%F0%9F%93%B1;DSA+%26+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2500&amp;pause=900&amp;color=FF2E9F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Anmol+%F0%9F%91%8B;B.Tech+CSE+Undergrad;Full+Stack+Developer;Mobile+App+Developer+%F0%9F%93%B1;DSA+and+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 

@@ -34,39 +34,35 @@ fun_fact: "I debug faster than I make chai ☕"
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+### 💻 Languages
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js&amp;theme=dark" />
+</p>
 
-<br/><br/>
+---
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&amp;theme=dark" />
+### 🗄️ Databases
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&amp;theme=dark" />
+</p>
 
-**Frameworks &amp; Libraries**
+---
 
-<br/><br/>
+### 🧩 Frameworks / Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,bootstrap,reactnative&amp;theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,nextjs,tailwind,reactnative&amp;theme=dark" />
+</p>
 
-<br/><br/>
+---
 
-**Databases**
+### 🔧 Tools &amp; IDEs
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&amp;theme=dark" />
-
-<br/><br/>
-
-**Tools &amp; Platforms**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,vercel,postman&amp;theme=dark" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,vercel,postman&amp;theme=dark" />
+</p>
 
 <br/>
 
@@ -74,44 +70,13 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 [Portfolio](https://heyanmol.vercel.app/)
-React · Vite · Tailwind · GSAP · Three.js · Framer Motion
-
-</td>
-<td width="50%">
-
-### 💌 [Mystery Messages](https://mystry-messages-drab.vercel.app/)
-Next.js · TypeScript · MongoDB · NextAuth · Tailwind
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📋 [Job Application Tracker](https://job-application-tracker-five-lime.vercel.app/)
-Next.js · TypeScript · MongoDB · dnd-kit
-
-</td>
-<td width="50%">
-
-### 📅 [Event Planner](https://event-planner-sepia-eight.vercel.app/)
-Next.js · TypeScript · MongoDB · Tailwind
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🤡 [Clown Fighter](https://clownfighter.netlify.app/)
-HTML5 · CSS3 · Vanilla JS · Canvas API — a fun arcade-style fighting game
-
-</td>
-</tr>
-</table>
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| **Portfolio** | React, Vite, Tailwind CSS, GSAP, Three.js, Framer Motion | [Explore](https://heyanmol.vercel.app/) |
+| **Mystery Messages** | Next.js, React, TypeScript, MongoDB, NextAuth, Tailwind CSS | [Explore](https://mystry-messages-drab.vercel.app/) |
+| **Job Application Tracker** | Next.js, React, TypeScript, MongoDB, NextAuth, Tailwind CSS, dnd-kit | [Explore](https://job-application-tracker-five-lime.vercel.app/) |
+| **Event Planner** | Next.js, React, TypeScript, MongoDB, Tailwind CSS | [Explore](https://event-planner-sepia-eight.vercel.app/) |
+| **Clown Fighter** | HTML5, CSS3, JavaScript, Canvas API | [Explore](https://clownfighter.netlify.app/) |
 
 </div>
 
@@ -176,7 +141,6 @@ HTML5 · CSS3 · Vanilla JS · Canvas API — a fun arcade-style fighting game
 <!-- Replace the # links below with your real profile URLs -->
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF2E9F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-00F5FF?style=for-the-badge&amp;logo=twitter&amp;logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 </div>

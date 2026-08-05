@@ -32,37 +32,39 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <br/>
 
-## 🛠️ Tech Arsenal
+# 🛠 Tech Stack
 
-### 💻 Languages
+## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+</p>
+
+## Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,expo"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 </p>
 
 ---
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&amp;theme=dark" />
-</p>
-
----
-
-### 🧩 Frameworks / Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,nextjs,tailwind,reactnative&amp;theme=dark" />
-</p>
-
----
-
-### 🔧 Tools &amp; IDEs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,vercel,postman&amp;theme=dark" />
-</p>
 
 <br/>
 

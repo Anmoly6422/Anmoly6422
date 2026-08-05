@@ -113,10 +113,8 @@ fun_fact: "I debug faster than I make chai ☕"
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;hide_border=true&amp;area=true&amp;color=00F5FF&amp;line=FF2E9F" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%" />
 </div>
-
-<br/>
 
 ## 🐍 Contribution Snake
 

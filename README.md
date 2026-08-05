@@ -118,12 +118,6 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <br/>
 
-## 🗓️ Contribution Calendar
-
-<div align="center">
-<img src="https://ghchart.rshah.org/FF2E9F/Anmoly6422" alt="Anmol's GitHub contribution chart" width="100%"/>
-</div>
-
 ## 🐍 Contribution Snake
 
 > _The snake below literally eats the calendar above, one commit at a time._

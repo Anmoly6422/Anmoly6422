@@ -33,32 +33,31 @@ open_to:              ["Open Source", "Internships", "Tech Communities"]
 
 <br/>
 
+<div align="center">
+
 ## Tech Stack
 
 **Languages**
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css"/>
-</p>
 
 **Frontend**
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap"/>
-</p>
 
 **Backend**
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-</p>
 
 **Mobile**
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,expo"/>
-</p>
 
 **Tools**
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
-</p>
+
+</div>
 
 ---
 

@@ -24,7 +24,7 @@
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="6" width="100%"/>
 
 <br/>
 
@@ -32,22 +32,22 @@
 
 ## CHAPTER I — THE ORIGIN
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=where+it+all+started" alt="Typing SVG" />
+
 </div>
 
 Anmol didn't set out to become a developer. He set out to *understand* — how a button click became a database row, how a screen redrew itself sixty times a second, how an idea in someone's head became something a stranger could hold in their hand. That question never really got answered. It just kept branching.
 
 Today he's still chasing it — as a B.Tech Computer Science undergraduate at **Kanpur Institute of Technology**, building full-stack web apps by day, React Native apps in the evenings, and losing arguments with Data Structures & Algorithms problems late at night.
 
-```
-role        : Full Stack Developer · Mobile App Developer · DSA Problem Solver
-based in    : Kanpur, India
-currently   : shipping real products, not tutorials
-open to     : open source · internships · people who want to build something
-```
+> [!NOTE]
+> **Role:** Full Stack Developer · Mobile App Developer · DSA Problem Solver
+> **Based in:** Kanpur, India
+> **Open to:** Open Source · Internships · People who want to build something real
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="6" width="100%"/>
 
 <br/>
 
@@ -55,9 +55,9 @@ open to     : open source · internships · people who want to build something
 
 ## CHAPTER II — THE ARSENAL
 
-*every story's hero needs tools. these are his.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=every+story's+hero+needs+tools" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" height="45"/>
@@ -86,7 +86,7 @@ open to     : open source · internships · people who want to build something
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/-%20-FF2E9F?style=flat-square" height="6" width="100%"/>
 
 <br/>
 
@@ -94,7 +94,7 @@ open to     : open source · internships · people who want to build something
 
 ## CHAPTER III — THE BUILDS
 
-*six products. six problems that annoyed him enough to fix.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=FF2E9F&center=true&vCenter=true&width=550&lines=six+products.+six+problems+that+annoyed+him+enough+to+fix." alt="Typing SVG" />
 
 </div>
 
@@ -142,7 +142,7 @@ A canvas-based fighting game, built with zero game engine — just JavaScript an
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="6" width="100%"/>
 
 <br/>
 
@@ -150,7 +150,7 @@ A canvas-based fighting game, built with zero game engine — just JavaScript an
 
 ## CHAPTER IV — INTO MOBILE TERRITORY
 
-*the story doesn't stay on the web for long.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=the+story+doesn't+stay+on+the+web+for+long" alt="Typing SVG" />
 
 </div>
 
@@ -173,23 +173,53 @@ A canvas-based fighting game, built with zero game engine — just JavaScript an
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="6" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-## CHAPTER V — THE STORY CONTINUES
+## CHAPTER V — BY THE NUMBERS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=the+record,+for+those+who+want+proof" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-*He hasn't finished. Nobody interesting ever really does.*
+<img src="https://streak-stats.demolab.com/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%" />
+
+</div>
+
+> [!TIP]
+> This isn't a highlight reel — it's the actual commit history, streaks, and language breakdown, pulled live from GitHub.
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-FF2E9F?style=flat-square" height="6" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## CHAPTER VI — THE STORY CONTINUES
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=FF2E9F&center=true&vCenter=true&width=550&lines=nobody+interesting+ever+really+finishes" alt="Typing SVG" />
+
+<br/><br/>
 
 Right now: deeper into advanced full-stack patterns, further into mobile development, and still — always — one more DSA problem before closing the laptop.
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="6" width="100%"/>
 
 <br/>
 

@@ -67,6 +67,7 @@ open_to:              ["Open Source", "Internships", "Tech Communities"]
 
 | Project | Tech Stack | Live Demo |
 |---|---|---|
+| **Letterly** | Next.js · TypeScript · Tailwind CSS | [Visit »](https://useletterly.vercel.app/) |
 | **Portfolio** | React · Vite · Tailwind CSS · GSAP · Three.js · Framer Motion | [Visit »](https://heyanmol.vercel.app/) |
 | **Mystery Messages** | Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS | [Visit »](https://mystry-messages-drab.vercel.app/) |
 | **Job Application Tracker** | Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS · dnd-kit | [Visit »](https://job-application-tracker-five-lime.vercel.app/) |
@@ -92,10 +93,10 @@ open_to:              ["Open Source", "Internships", "Tech Communities"]
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://streak-stats.demolab.com/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 

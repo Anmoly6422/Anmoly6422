@@ -1,186 +1,201 @@
 <div align="center">
 
+<br/>
+
+### THIS IS A TRUE STORY.
+
+<sub>the names have not been changed, because there was nothing to hide.</sub>
+
+<br/><br/>
+
 # ANMOL YADAV
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=full-stack+developer;mobile+app+developer;DSA+%2B+problem+solver;building+things+that+ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3500&pause=1500&color=00F5FF&center=true&vCenter=true&width=700&lines=a+story+about+building+things+that+didn't+exist+yet." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/KANPUR%2C_INDIA-000000?style=flat-square&labelColor=000000&color=FF2E9F" height="24"/>
-<img src="https://img.shields.io/github/followers/Anmoly6422?style=flat-square&label=FOLLOWERS&labelColor=000000&color=8A2BE2" height="24"/>
-<img src="https://komarev.com/ghpvc/?username=Anmoly6422&style=flat-square&label=PROFILE+VIEWS&color=00F5FF&labelColor=000000" height="24"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 <br/>
 
-```
-$ whoami
-> Anmol Yadav — B.Tech CSE @ Kanpur Institute of Technology
-
-$ status
-> shipping web + mobile apps end-to-end
-> deep in DSA when I'm not shipping features
-> currently exploring advanced full-stack patterns & mobile dev
-
-$ open_to
-> open source · internships · tech communities
-```
+> *Every story needs a setting. This one starts in Kanpur, India — a B.Tech CSE classroom, a laptop that ran hot, and a stubborn refusal to leave a bug unsolved before sleeping.*
 
 <br/>
 
-## Stack
+---
+
+<br/>
 
 <div align="center">
 
-`Languages`
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" height="42"/>
+## CHAPTER I — THE ORIGIN
 
-`Frontend`
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap" height="42"/>
+</div>
 
-`Backend`
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="42"/>
+Anmol didn't set out to become a developer. He set out to *understand* — how a button click became a database row, how a screen redrew itself sixty times a second, how an idea in someone's head became something a stranger could hold in their hand. That question never really got answered. It just kept branching.
 
-`Mobile`
-<img src="https://skillicons.dev/icons?i=react,expo" height="42"/>
+Today he's still chasing it — as a B.Tech Computer Science undergraduate at **Kanpur Institute of Technology**, building full-stack web apps by day, React Native apps in the evenings, and losing arguments with Data Structures & Algorithms problems late at night.
 
-`Tools`
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" height="42"/>
+```
+role        : Full Stack Developer · Mobile App Developer · DSA Problem Solver
+based in    : Kanpur, India
+currently   : shipping real products, not tutorials
+open to     : open source · internships · people who want to build something
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## CHAPTER II — THE ARSENAL
+
+*every story's hero needs tools. these are his.*
+
+<br/>
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" height="45"/>
+
+<br/>
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap" height="45"/>
+
+<br/>
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="45"/>
+
+<br/>
+
+**Mobile**
+<img src="https://skillicons.dev/icons?i=react,expo" height="45"/>
+
+<br/>
+
+**Tools of the Trade**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" height="45"/>
 
 </div>
 
 <br/>
 
-## Web Builds
+---
 
-<details open>
-<summary><b>Letterly</b> — email builder & campaign platform</summary>
 <br/>
 
+<div align="center">
+
+## CHAPTER III — THE BUILDS
+
+*six products. six problems that annoyed him enough to fix.*
+
+</div>
+
+<br/>
+
+**I. Letterly** — *the one that started as a side quest and became the main storyline.*
+An email builder and campaign platform — drag, drop, design, send.
 `Next.js` `TypeScript` `Tailwind CSS` `AstraDB` `Clerk` `MUI`
+**[Enter → useletterly.vercel.app](https://useletterly.vercel.app/)**
 
-Drag-and-drop email template builder with authenticated user accounts and a serverless database backend.
-
-**[useletterly.vercel.app →](https://useletterly.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>Portfolio</b> — personal site</summary>
 <br/>
 
+**II. Portfolio** — *the mirror. built to hold everything else.*
+A personal site with 3D-accented visuals and scroll-driven motion.
 `React` `Vite` `Tailwind CSS` `GSAP` `Three.js` `Framer Motion`
+**[Enter → heyanmol.vercel.app](https://heyanmol.vercel.app/)**
 
-A 3D-accented personal portfolio with scroll-driven animation.
-
-**[heyanmol.vercel.app →](https://heyanmol.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>Mystery Messages</b> — anonymous messaging app</summary>
 <br/>
 
+**III. Mystery Messages** — *anonymity, engineered properly.*
+Send and receive anonymous messages with full authentication underneath.
 `Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS`
+**[Enter → mystry-messages-drab.vercel.app](https://mystry-messages-drab.vercel.app/)**
 
-Send and receive anonymous messages with full auth and message management.
-
-**[mystry-messages-drab.vercel.app →](https://mystry-messages-drab.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>Job Application Tracker</b> — kanban-style tracker</summary>
 <br/>
 
+**IV. Job Application Tracker** — *for everyone else living their own hero's journey.*
+A drag-and-drop board that tracks every application through every stage.
 `Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` `dnd-kit`
+**[Enter → job-application-tracker-five-lime.vercel.app](https://job-application-tracker-five-lime.vercel.app/)**
 
-Drag-and-drop board for tracking job applications through each stage of the pipeline.
-
-**[job-application-tracker-five-lime.vercel.app →](https://job-application-tracker-five-lime.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>Event Planner</b> — event management app</summary>
 <br/>
 
+**V. Event Planner** — *because chaos deserves a dashboard.*
+Plan, organize, and manage events from one place.
 `Next.js` `TypeScript` `MongoDB` `Tailwind CSS`
+**[Enter → event-planner-sepia-eight.vercel.app](https://event-planner-sepia-eight.vercel.app/)**
 
-Plan, organize, and manage events from a single dashboard.
-
-**[event-planner-sepia-eight.vercel.app →](https://event-planner-sepia-eight.vercel.app/)**
-
-</details>
-
-<details>
-<summary><b>Clown Fighter</b> — browser game</summary>
 <br/>
 
+**VI. Clown Fighter** — *the one built for no reason except that it sounded fun.*
+A canvas-based fighting game, built with zero game engine — just JavaScript and stubbornness.
 `HTML5` `CSS3` `JavaScript` `Canvas API`
-
-A canvas-based fighting game built from scratch, no game engine.
-
-**[clownfighter.netlify.app →](https://clownfighter.netlify.app/)**
-
-</details>
+**[Enter → clownfighter.netlify.app](https://clownfighter.netlify.app/)**
 
 <br/>
 
-## Mobile Builds
+---
 
-<details open>
-<summary><b>KRIBB</b> — real-estate app</summary>
 <br/>
 
+<div align="center">
+
+## CHAPTER IV — INTO MOBILE TERRITORY
+
+*the story doesn't stay on the web for long.*
+
+</div>
+
+<br/>
+
+**KRIBB** — a real-estate app with Clerk auth, a Supabase backend, and a search built to actually find what you're looking for.
 `React Native` `Expo` `TypeScript`
-
-Property search app with Clerk authentication, Supabase backend, favorites, and listing search.
-
 **[Code](https://github.com/Anmoly6422/Kribb)** · **[APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45)**
 
-</details>
-
-<details>
-<summary><b>PassForge</b> — password generator</summary>
-<br/>
-
+**PassForge** — a glassmorphic password generator with a strength meter that doesn't lie to you.
 `React Native` `Formik` `Yup`
-
-Glassmorphic password generator with a live strength meter.
-
 **[Code](https://github.com/Anmoly6422/PassForge)**
 
-</details>
-
-<details>
-<summary><b>ItemFlow</b> — inventory manager</summary>
-<br/>
-
+**ItemFlow** — full CRUD inventory management, built clean.
 `React Native` `React Navigation`
-
-Full CRUD item management app.
-
 **[Code](https://github.com/Anmoly6422/ItemFlow)**
 
-</details>
-
-<details>
-<summary><b>Tic-Tac-Toe · CurrencyConvertor · Roll-The-Dice</b> — smaller builds</summary>
-<br/>
-
-Three focused React Native apps: two-player tic-tac-toe with win/draw detection, a multi-currency converter, and an animated dice roller.
-
+**The Smaller Chapters** — Tic-Tac-Toe with real win/draw detection, a multi-currency converter, and an animated dice roller.
 **[Tic-Tac-Toe](https://github.com/Anmoly6422/TIC-TAC-TOE)** · **[CurrencyConvertor](https://github.com/Anmoly6422/CurrencyConvertor)** · **[Roll-The-Dice](https://github.com/Anmoly6422/Roll-The-Dice)**
 
-</details>
+<br/>
+
+---
 
 <br/>
 
-## Connect
-
 <div align="center">
+
+## CHAPTER V — THE STORY CONTINUES
+
+<br/>
+
+*He hasn't finished. Nobody interesting ever really does.*
+
+Right now: deeper into advanced full-stack patterns, further into mobile development, and still — always — one more DSA problem before closing the laptop.
+
+<br/>
+
+---
+
+<br/>
+
+## FINAL SCENE
+
+*if the story's interesting so far, here's how it keeps going.*
 
 <a href="https://heyanmol.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" /></a>
@@ -188,9 +203,6 @@ Three focused React Native apps: two-player tic-tac-toe with win/draw detection,
 
 <br/><br/>
 
-```
-> code is like humor — when you have to explain it, it's bad.
-                                                      — cory house
-```
+*to be continued...*
 
 </div>

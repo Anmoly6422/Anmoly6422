@@ -37,7 +37,7 @@ That question never really got answered. **It just kept branching.**
 Today he's still chasing it — as a **B.Tech Computer Science** undergraduate at **Kanpur Institute of Technology**, building full-stack web apps by day, React Native apps in the evenings, and solving Data Structures & Algorithms problems late at night.
 
 <br/>
-
+<div>
 ```yaml
 name: Anmol Yadav
 education: "B.Tech in Computer Science & Engineering @ Kanpur Institute of Technology"
@@ -46,7 +46,7 @@ currently_learning: ["Advanced Full Stack Patterns", "Mobile Architecture", "Adv
 currently_building: "Real-world web & mobile apps that solve real problems"
 looking_to_collaborate_on: ["Open Source", "Internships", "Tech Communities"]
 fun_fact: "I debug faster than I make chai ☕"
-
+</div>
 <!-- COLOR DIVIDER Purple -->
 <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="4" width="100%"/>
 

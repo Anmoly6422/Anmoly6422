@@ -1,169 +1,224 @@
 <div align="center">
 
-  <!-- CAPSULE RENDER HEADER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=220&section=header&text=ANMOL%20YADAV&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20Engineer%20%7C%20DSA%20Problem%20Solver&descAlignY=58&descSize=18" />
-
-  <!-- DYNAMIC TYPING BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Anmol+Yadav;B.Tech+CSE+Undergrad;Full+Stack+Web+%26+Mobile+Developer;Building+things+that+didn't+exist+yet.;Solving+bugs+before+sleeping." alt="Typing SVG" />
-
-  <br/><br/>
-
-  <!-- BADGES -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
-    <img src="https://img.shields.io/badge/DSA%20Enthusiast-%23F7DF1E?style=for-the-badge&logo=cplusplus&logoColor=black" />
-    <img src="https://img.shields.io/badge/Full%20Stack%20%26%20Mobile-%23000000?style=for-the-badge&logo=stackshare&logoColor=white" />
-    <img src="https://img.shields.io/badge/Problem%20Solver-%238A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </p>
-
-  <sub align="center"><i>THIS IS A TRUE STORY. The names have not been changed, because there was nothing to hide.</i></sub>
+<img width="100%" src="https://raw.githubusercontent.com/Anmoly6422/Anmoly6422/main/assets/hero-banner.svg" alt="Anmol Yadav" />
 
 </div>
 
 <br/>
 
-<!-- COLOR DIVIDER Cyan -->
-<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="4" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="6" width="100%"/>
 
 <br/>
+
+<div align="center">
 
 ## CHAPTER I — THE ORIGIN
 
-> *Every story needs a setting. This one starts in **Kanpur, India** — a B.Tech CSE classroom at Kanpur Institute of Technology, a laptop that ran hot, and a stubborn refusal to leave a bug unsolved before sleeping.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=where+it+all+started" alt="Typing SVG" />
 
-Anmol didn't set out to become a developer. He set out to understand — how a button click became a database row, how a screen redrew itself sixty times a second, how an idea in someone's head became something a stranger could hold in their hand.
+</div>
+
+> *Every story needs a setting. This one starts in Kanpur, India — a B.Tech CSE classroom at Kanpur Institute of Technology, a laptop that ran hot, and a stubborn refusal to leave a bug unsolved before sleeping.*
+
+Anmol didn't set out to become a developer. He set out to *understand* — how a button click became a database row, how a screen redrew itself sixty times a second, how an idea in someone's head became something a stranger could hold in their hand.
 
 That question never really got answered. **It just kept branching.**
 
-Today, he continues to bridge complex backend architectures with sleek mobile interfaces — spending his days engineering full-stack platforms in Next.js and React, evenings crafting cross-platform mobile apps in React Native, and late nights untangling complex Data Structures & Algorithms challenges.
+Somewhere between his first broken build and his hundredth fixed one, the curiosity turned into a craft. Now he bridges backend architecture and mobile interfaces without thinking twice about the switch — full-stack platforms in Next.js and React through the day, cross-platform apps in React Native through the evening, and a Data Structures & Algorithms problem he refuses to leave unsolved before the night ends.
 
----
+> [!NOTE]
+> **Role:** Full Stack Developer · Mobile App Developer · DSA Problem Solver
+> **Based in:** Kanpur, India
+> **Open to:** Open Source · Internships · People who want to build something real
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="6" width="100%"/>
+
+<br/>
+
+<div align="center">
 
 ## CHAPTER II — THE ARSENAL
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=every+story's+hero+needs+tools" alt="Typing SVG" />
 
-### Frontend & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite" />
-</p>
+<br/><br/>
 
-### Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
-</p>
+**Languages**
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" height="45"/>
 
-### Mobile Ecosystem
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
+<br/>
 
-### Tools & Deployment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap" height="45"/>
 
----
+<br/>
 
-## CHAPTER III — THE BUILDS (Web Projects)
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="45"/>
 
-> *Six products. Six problems that annoyed him enough to fix.*
+<br/>
 
-<div align="center">
+**Mobile**
+<img src="https://skillicons.dev/icons?i=react,expo" height="45"/>
 
-| Project | Tech Stack | Live Demo |
-| :--- | :--- | :---: |
-| **Letterly** | Next.js, TypeScript, Tailwind CSS, AstraDB, Clerk, MUI | [Explore →](https://useletterly.vercel.app/) |
-| **Portfolio** | React, Vite, Tailwind CSS, GSAP, Three.js, Framer Motion | [Explore →](https://heyanmol.vercel.app/) |
-| **Mystery Messages** | Next.js, TypeScript, MongoDB, NextAuth, Tailwind CSS | [Explore →](https://mystry-messages-drab.vercel.app/) |
-| **Job Application Tracker** | Next.js, TypeScript, MongoDB, NextAuth, Tailwind CSS, dnd-kit | [Explore →](https://job-application-tracker-five-lime.vercel.app/) |
-| **Event Planner** | Next.js, TypeScript, MongoDB, Tailwind CSS | [Explore →](https://event-planner-sepia-eight.vercel.app/) |
-| **Clown Fighter** | HTML5 Canvas API, CSS3, JavaScript (Engine-free) | [Explore →](https://clownfighter.netlify.app/) |
+<br/>
+
+**Tools of the Trade**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" height="45"/>
 
 </div>
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-FF2E9F?style=flat-square" height="6" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## CHAPTER III — THE BUILDS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=FF2E9F&center=true&vCenter=true&width=550&lines=six+products.+six+problems+that+annoyed+him+enough+to+fix." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+**I. Letterly** — *the one that started as a side quest and became the main storyline.*
+An email builder and campaign platform — drag, drop, design, send.
+`Next.js` `TypeScript` `Tailwind CSS` `AstraDB` `Clerk` `MUI`
+**[Enter → useletterly.vercel.app](https://useletterly.vercel.app/)**
+
+<br/>
+
+**II. Portfolio** — *the mirror. built to hold everything else.*
+A personal site with 3D-accented visuals and scroll-driven motion.
+`React` `Vite` `Tailwind CSS` `GSAP` `Three.js` `Framer Motion`
+**[Enter → heyanmol.vercel.app](https://heyanmol.vercel.app/)**
+
+<br/>
+
+**III. Mystery Messages** — *anonymity, engineered properly.*
+Send and receive anonymous messages with full authentication underneath.
+`Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS`
+**[Enter → mystry-messages-drab.vercel.app](https://mystry-messages-drab.vercel.app/)**
+
+<br/>
+
+**IV. Job Application Tracker** — *for everyone else living their own hero's journey.*
+A drag-and-drop board that tracks every application through every stage.
+`Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` `dnd-kit`
+**[Enter → job-application-tracker-five-lime.vercel.app](https://job-application-tracker-five-lime.vercel.app/)**
+
+<br/>
+
+**V. Event Planner** — *because chaos deserves a dashboard.*
+Plan, organize, and manage events from one place.
+`Next.js` `TypeScript` `MongoDB` `Tailwind CSS`
+**[Enter → event-planner-sepia-eight.vercel.app](https://event-planner-sepia-eight.vercel.app/)**
+
+<br/>
+
+**VI. Clown Fighter** — *the one built for no reason except that it sounded fun.*
+A canvas-based fighting game, built with zero game engine — just JavaScript and stubbornness.
+`HTML5` `CSS3` `JavaScript` `Canvas API`
+**[Enter → clownfighter.netlify.app](https://clownfighter.netlify.app/)**
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="6" width="100%"/>
+
+<br/>
+
+<div align="center">
 
 ## CHAPTER IV — INTO MOBILE TERRITORY
 
-> *Cross-platform mobile applications engineered with React Native and Expo.*
-
-<div align="center">
-
-| Mobile App | Description & Features | Tech Stack | Repository & Links |
-| :--- | :--- | :--- | :---: |
-| **KRIBB** | Feature-rich real-estate discovery application with location search & authentication | React Native, Expo, TypeScript, Clerk, Supabase | [Source Code](https://github.com/Anmoly6422/Kribb) • [Download APK](https://expo.dev/accounts/anmoly422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
-| **PassForge** | Glassmorphic password generator app with security criteria & strength scoring | React Native, Formik, Yup, TypeScript | [Source Code](https://github.com/Anmoly6422/PassForge) |
-| **ItemFlow** | Inventory management application with full CRUD capabilities and clean navigation | React Native, React Navigation, TypeScript | [Source Code](https://github.com/Anmoly6422/ItemFlow) |
-| **Tic-Tac-Toe** | Interactive game featuring real-time win/draw state detection algorithms | React Native, React Hooks, TypeScript | [Source Code](https://github.com/Anmoly6422/TIC-TAC-TOE) |
-| **Currency Converter** | Real-time multi-currency converter app with live dynamic rates | React Native, REST API, TypeScript | [Source Code](https://github.com/Anmoly6422/CurrencyConvertor) |
-| **Roll The Dice** | Animated dice roller app with haptic feedback & sound feedback | React Native, React Native Reanimated | [Source Code](https://github.com/Anmoly6422/Roll-The-Dice) |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=the+story+doesn't+stay+on+the+web+for+long" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
+
+**KRIBB** — a real-estate app with Clerk auth, a Supabase backend, and a search built to actually find what you're looking for.
+`React Native` `Expo` `TypeScript`
+**[Code](https://github.com/Anmoly6422/Kribb)** · **[APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45)**
+
+**PassForge** — a glassmorphic password generator with a strength meter that doesn't lie to you.
+`React Native` `Formik` `Yup`
+**[Code](https://github.com/Anmoly6422/PassForge)**
+
+**ItemFlow** — full CRUD inventory management, built clean.
+`React Native` `React Navigation`
+**[Code](https://github.com/Anmoly6422/ItemFlow)**
+
+**The Smaller Chapters** — Tic-Tac-Toe with real win/draw detection, a multi-currency converter, and an animated dice roller.
+**[Tic-Tac-Toe](https://github.com/Anmoly6422/TIC-TAC-TOE)** · **[CurrencyConvertor](https://github.com/Anmoly6422/CurrencyConvertor)** · **[Roll-The-Dice](https://github.com/Anmoly6422/Roll-The-Dice)**
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="6" width="100%"/>
+
+<br/>
+
+<div align="center">
 
 ## CHAPTER V — BY THE NUMBERS
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=the+record,+for+those+who+want+proof" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://github-stats-extended.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%" />
 
 </div>
 
-### Activity Graph
+> [!TIP]
+> This isn't a highlight reel — it's the actual commit history, streaks, and language breakdown, pulled live from GitHub.
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-FF2E9F?style=flat-square" height="6" width="100%"/>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%"/>
-</div>
-
----
-
-## CONTRIBUTION SNAKE
-
-> *Visualizing my GitHub journey in motion — commit → animate → repeat*
-
-<div align="center">
-  <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## CHAPTER VI — THE STORY CONTINUES
 
-<div align="center">
-
-> *Nobody interesting ever really finishes.*
-
-Right now: deeper into **advanced full-stack patterns**, further into **mobile development**, and still — always — **one more DSA problem before closing the laptop.**
-
-### Let's Connect
-
-<p align="center">
-  <a href="https://heyanmol.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF2E9F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Anmoly6422"><img src="https://img.shields.io/badge/GITHUB-0077B5?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anmolyadav/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anmolyadav.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br/>
-
-<code>to be continued...</code>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=FF2E9F&center=true&vCenter=true&width=550&lines=nobody+interesting+ever+really+finishes" alt="Typing SVG" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF2E9F&height=120&section=footer" />
+Right now: deeper into advanced full-stack patterns, further into mobile development, and still — always — one more DSA problem before closing the laptop.
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%20-00F5FF?style=flat-square" height="6" width="100%"/>
+
+<br/>
+
+## FINAL SCENE
+
+*if the story's interesting so far, here's how it keeps going.*
+
+<a href="https://heyanmol.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" /></a>
+<a href="#"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF2E9F" /></a>
+
+<br/><br/>
+
+*to be continued...*
 
 </div>

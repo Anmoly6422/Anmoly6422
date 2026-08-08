@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=220&section=header&text=Anmol%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=250&section=header&text=Anmol%20Yadav&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=FF2E9F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anmol;B.Tech+CSE+Undergraduate;Full+Stack+Developer;Mobile+App+Developer;DSA+%26+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=FF2E9F&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anmol;B.Tech+CSE+Undergraduate;Full+Stack+Developer;Mobile+App+Developer;DSA+%26+Problem+Solver" alt="Typing SVG" />
 
 <br/>
 
@@ -59,68 +59,145 @@ open_to:              ["Open Source", "Internships", "Tech Communities"]
 
 </div>
 
+<br/>
+
 ---
 
 <br/>
 
+<div align="center">
+
 ## Featured Web Projects
 
-| Project | Tech Stack | Live Demo |
-|---|---|---|
-| **Letterly** | Next.js · TypeScript · Tailwind CSS · AstraDB  · Clerk · MUI | [Visit »](https://useletterly.vercel.app/) |
-| **Portfolio** | React · Vite · Tailwind CSS · GSAP · Three.js · Framer Motion | [Visit »](https://heyanmol.vercel.app/) |
-| **Mystery Messages** | Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS | [Visit »](https://mystry-messages-drab.vercel.app/) |
-| **Job Application Tracker** | Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS · dnd-kit | [Visit »](https://job-application-tracker-five-lime.vercel.app/) |
-| **Event Planner** | Next.js · TypeScript · MongoDB · Tailwind CSS | [Visit »](https://event-planner-sepia-eight.vercel.app/) |
-| **Clown Fighter** | HTML5 · CSS3 · JavaScript · Canvas API | [Visit »](https://clownfighter.netlify.app/) |
+<table>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Live Demo</th>
+</tr>
+<tr>
+<td><b>Letterly</b></td>
+<td>Next.js · TypeScript · Tailwind CSS · AstraDB · Clerk · MUI</td>
+<td><a href="https://useletterly.vercel.app/">Visit »</a></td>
+</tr>
+<tr>
+<td><b>Portfolio</b></td>
+<td>React · Vite · Tailwind CSS · GSAP · Three.js · Framer Motion</td>
+<td><a href="https://heyanmol.vercel.app/">Visit »</a></td>
+</tr>
+<tr>
+<td><b>Mystery Messages</b></td>
+<td>Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS</td>
+<td><a href="https://mystry-messages-drab.vercel.app/">Visit »</a></td>
+</tr>
+<tr>
+<td><b>Job Application Tracker</b></td>
+<td>Next.js · TypeScript · MongoDB · NextAuth · Tailwind CSS · dnd-kit</td>
+<td><a href="https://job-application-tracker-five-lime.vercel.app/">Visit »</a></td>
+</tr>
+<tr>
+<td><b>Event Planner</b></td>
+<td>Next.js · TypeScript · MongoDB · Tailwind CSS</td>
+<td><a href="https://event-planner-sepia-eight.vercel.app/">Visit »</a></td>
+</tr>
+<tr>
+<td><b>Clown Fighter</b></td>
+<td>HTML5 · CSS3 · JavaScript · Canvas API</td>
+<td><a href="https://clownfighter.netlify.app/">Visit »</a></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
+
+<div align="center">
 
 ## Mobile Development Projects
 
-| App | Stack | What it does | Links |
-|---|---|---|---|
-| **KRIBB** | React Native · Expo · TypeScript | Real-estate app with Clerk auth, Supabase backend, search & favorites | [Code](https://github.com/Anmoly6422/Kribb) · [APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
-| **Tic-Tac-Toe** | React Native · TypeScript | Two-player game with win/draw detection | [Code](https://github.com/Anmoly6422/TIC-TAC-TOE) · [APK](https://expo.dev/accounts/anmoly6422s-team/projects/tictactoe/builds/13a60071-6507-47a5-9172-2099abf68a43) |
-| **CurrencyConvertor** | React Native · TypeScript | Fast, accurate multi-currency converter | [Code](https://github.com/Anmoly6422/CurrencyConvertor) |
-| **Roll-The-Dice** | React Native · TypeScript | Animated dice roller | [Code](https://github.com/Anmoly6422/Roll-The-Dice) |
-| **PassForge** | React Native · Formik · Yup | Glassmorphic password generator with strength meter | [Code](https://github.com/Anmoly6422/PassForge) |
-| **ItemFlow** | React Native · React Navigation | Item management with full CRUD | [Code](https://github.com/Anmoly6422/ItemFlow) |
+<table>
+<tr>
+<th>App</th>
+<th>Stack</th>
+<th>What it does</th>
+<th>Links</th>
+</tr>
+<tr>
+<td><b>KRIBB</b></td>
+<td>React Native · Expo · TypeScript</td>
+<td>Real-estate app with Clerk auth, Supabase backend, search & favorites</td>
+<td><a href="https://github.com/Anmoly6422/Kribb">Code</a> · <a href="https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45">APK</a></td>
+</tr>
+<tr>
+<td><b>Tic-Tac-Toe</b></td>
+<td>React Native · TypeScript</td>
+<td>Two-player game with win/draw detection</td>
+<td><a href="https://github.com/Anmoly6422/TIC-TAC-TOE">Code</a> · <a href="https://expo.dev/accounts/anmoly6422s-team/projects/tictactoe/builds/13a60071-6507-47a5-9172-2099abf68a43">APK</a></td>
+</tr>
+<tr>
+<td><b>CurrencyConvertor</b></td>
+<td>React Native · TypeScript</td>
+<td>Fast, accurate multi-currency converter</td>
+<td><a href="https://github.com/Anmoly6422/CurrencyConvertor">Code</a></td>
+</tr>
+<tr>
+<td><b>Roll-The-Dice</b></td>
+<td>React Native · TypeScript</td>
+<td>Animated dice roller</td>
+<td><a href="https://github.com/Anmoly6422/Roll-The-Dice">Code</a></td>
+</tr>
+<tr>
+<td><b>PassForge</b></td>
+<td>React Native · Formik · Yup</td>
+<td>Glassmorphic password generator with strength meter</td>
+<td><a href="https://github.com/Anmoly6422/PassForge">Code</a></td>
+</tr>
+<tr>
+<td><b>ItemFlow</b></td>
+<td>React Native · React Navigation</td>
+<td>Item management with full CRUD</td>
+<td><a href="https://github.com/Anmoly6422/ItemFlow">Code</a></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-## GitHub Stats
+---
+
+<br/>
 
 <div align="center">
+
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
 
-</div>
-
 ## Activity Graph
 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmoly6422&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%" />
+
 </div>
 
 <br/>
 
-## Let's Connect
+---
+
+<br/>
 
 <div align="center">
+
+## Let's Connect
 
 <a href="https://heyanmol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E9F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 > _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 

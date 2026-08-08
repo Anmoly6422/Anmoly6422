@@ -1,23 +1,18 @@
 <div align="center">
 
-  <!-- HERO CAPSULE BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF2E9F&height=260&section=header&text=ANMOL%20YADAV&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20WEB%20%26%20MOBILE%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=18" />
-
-  <br/>
+  <!-- CAPSULE RENDER HEADER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=220&section=header&text=Anmol%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20and%20Mobile%20App%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" />
 
   <!-- DYNAMIC TYPING BANNER -->
-  <a href="https://heyanmol.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+things+that+didn't+exist+yet...;Full+Stack+Web+%26+Mobile+Architect;Crafting+digital+experiences+from+Kanpur+to+the+World." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=FF2E9F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anmol+%F0%9F%91%8B;B.Tech+CSE+Undergrad;Full+Stack+Developer;Mobile+App+Developer+%F0%9F%93%B1;DSA+and+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
   <br/><br/>
 
   <!-- QUICK BADGES BAR -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-00F5FF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20%40%20KIT-8A2BE2?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-FF2E9F?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%9D-Kanpur,%20India-FF2E9F?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Anmoly6422&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/Anmoly6422?style=for-the-badge&color=8A2BE2&labelColor=black" />
   </p>
 
   <sub align="center"><i>THIS IS A TRUE STORY. The names have not been changed, because there was nothing to hide.</i></sub>
@@ -31,23 +26,26 @@
 
 <br/>
 
-## CHAPTER I — THE ORIGIN
+## 📖 CHAPTER I — THE ORIGIN & ABOUT ME
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=where+curiosity+became+code" alt="Typing SVG" />
-</div>
+> 💡 *Every story needs a setting. This one starts in **Kanpur, India** — a B.Tech CSE classroom at Kanpur Institute of Technology, a laptop that ran hot, and a stubborn refusal to leave a bug unsolved before sleeping.*
 
-<br/>
+Anmol didn't set out to become just another developer. He set out to understand — how a button click became a database row, how a screen redrew itself sixty times a second, how an idea in someone's head became something a stranger could hold in their hand.
 
-> ⚡ *Every story needs a setting. This one starts in **Kanpur, India** — a B.Tech CSE classroom at Kanpur Institute of Technology, a laptop that ran hot, and a stubborn refusal to leave a bug unsolved before sleeping.*
+That question never really got answered. **It just kept branching.**
 
-Anmol didn't set out to become just another developer. He set out to understand the invisible mechanics of the web — how a simple button click ripples across servers to become a database row, how a screen renders sixty fluid frames every second, and how an abstract idea in a creator's mind transforms into software that thousands of strangers can interact with.
-
-That question never really got answered. **It just kept branching into bigger systems.**
-
-Today, he engineers high-performance web platforms and intuitive cross-platform mobile apps. His daily cadence revolves around crafting scalable full-stack web platforms in **Next.js** and **React**, building native-feeling mobile applications in **React Native**, and sharpening fundamental engineering problem-solving with **Data Structures & Algorithms**.
+Today he's still chasing it — as a **B.Tech Computer Science** undergraduate at **Kanpur Institute of Technology**, building full-stack web apps by day, React Native apps in the evenings, and solving Data Structures & Algorithms problems late at night.
 
 <br/>
+
+```yaml
+name: Anmol Yadav
+education: "B.Tech in Computer Science & Engineering @ Kanpur Institute of Technology"
+roles: ["Full Stack Developer 💻", "Mobile App Developer 📱", "DSA Problem Solver 🧠"]
+currently_learning: ["Advanced Full Stack Patterns", "Mobile Architecture", "Advanced DSA"]
+currently_building: "Real-world web & mobile apps that solve real problems"
+looking_to_collaborate_on: ["Open Source", "Internships", "Tech Communities"]
+fun_fact: "I debug faster than I make chai ☕"
 
 <table width="100%">
   <tr>

@@ -1,5 +1,4 @@
 <div align="center">
-
   <!-- VIBRANT ANIMATED HEADER BANNER -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=220&section=header&text=ANMOL%20YADAV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20DSA%20Problem%20Solver&descAlignY=58&descSize=18" />
 
@@ -10,13 +9,12 @@
 
   <!-- COLORFUL BADGES BAR -->
   <p align="center">
-    <img src="https://img.shields.io/badge/%F0%9F%93%9D-Kanpur,%20India-FF2E9F?style=for-the-badge" />
-    <img src="https://komarev.com/ghpvc/?username=Anmoly6422&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/followers/Anmoly6422?style=for-the-badge&color=8A2BE2&labelColor=black" />
+    <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-FF2E9F?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://komarev.com/ghpvc/?username=Anmoly6422&style=for-the-badge&color=00F5FF&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/Anmoly6422?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2&labelColor=1a1a2e&label=FOLLOWERS" />
   </p>
 
   <sub align="center"><i>THIS IS A TRUE STORY. The names have not been changed, because there was nothing to hide.</i></sub>
-
 </div>
 
 <br/>

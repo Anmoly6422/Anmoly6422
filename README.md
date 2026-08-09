@@ -1,6 +1,6 @@
 <div align="center">
   <!-- VIBRANT ANIMATED HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=220&section=header&text=ANMOL%20YADAV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20DSA%20Problem%20Solver&descAlignY=58&descSize=18" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=220&section=header&text=ANMOL%20YADAV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20and%20Mobile%20Developer%20%7C%20DSA%20Problem%20Solver&descAlignY=58&descSize=18" />
 
   <!-- DYNAMIC TYPING BANNER -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anmol+%F0%9F%91%8B;B.Tech+CSE+Undergrad;Full+Stack+Developer;Mobile+App+Developer+%F0%9F%93%B1;DSA+and+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />

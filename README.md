@@ -114,8 +114,8 @@ fun_fact: "I debug faster than I make chai ☕"
 ## 📊 CHAPTER V — BY THE NUMBERS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-sigma-nine-66.vercel.app/api?username=Anmoly6422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-nine-66.vercel.app/api/top-langs/?username=Anmoly6422&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=Anmoly6422&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
 </div>

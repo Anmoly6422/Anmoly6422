@@ -98,18 +98,17 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <div align="center">
 
-| App | Stack | What it does | Links |
-| :--- | :--- | :--- | :---: |
-| **ExpoMind** | React Native · Expo · TypeScript · Supabase · Gemini AI | AI-powered Expo documentation assistant using vector similarity search to provide contextual answers for Expo SDK 57 | [Code](https://github.com/Anmoly6422/expomind) · [APK](https://expo.dev/accounts/anmoly6422/projects/expomind/builds/8aa0526c-739b-4fb0-a160-aed961e8ea95) |
-| **KRIBB** | React Native · Expo · TypeScript | Real-estate app with Clerk auth, Supabase backend, search & favorites | [Code](https://github.com/Anmoly6422/Kribb) · [APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
-| **Tic-Tac-Toe** | React Native · TypeScript | Two-player game with win/draw detection | [Code](https://github.com/Anmoly6422/TIC-TAC-TOE) · [APK](https://expo.dev/accounts/anmoly422s-team/projects/tictactoe/builds/13a60071-6507-47a5-9172-2099abf68a43) |
-| **CurrencyConvertor** | React Native · TypeScript | Fast, accurate multi-currency converter | [Code](https://github.com/Anmoly6422/CurrencyConvertor) |
-| **Roll-The-Dice** | React Native · TypeScript | Animated dice roller with haptic feedback | [Code](https://github.com/Anmoly6422/Roll-The-Dice) |
-| **PassForge** | React Native · Formik · Yup | Glassmorphic password generator with strength meter | [Code](https://github.com/Anmoly6422/PassForge) |
-| **ItemFlow** | React Native · React Navigation | Item management with full CRUD workflows | [Code](https://github.com/Anmoly6422/ItemFlow) |
+| App | Stack | What it does | Code | APK |
+| :--- | :--- | :--- | :---: | :---: |
+| **ExpoMind** | React Native · Expo · TypeScript · Supabase · Gemini AI | AI-powered Expo documentation assistant using vector similarity search to provide contextual answers for Expo SDK 57 | [Code](https://github.com/Anmoly6422/expomind) | [APK](https://expo.dev/accounts/anmoly6422/projects/expomind/builds/8aa0526c-739b-4fb0-a160-aed961e8ea95) |
+| **KRIBB** | React Native · Expo · TypeScript | Real-estate app with Clerk auth, Supabase backend, search & favorites | [Code](https://github.com/Anmoly6422/Kribb) | [APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
+| **Tic-Tac-Toe** | React Native · TypeScript | Two-player game with win/draw detection | [Code](https://github.com/Anmoly6422/TIC-TAC-TOE) | [APK](https://expo.dev/accounts/anmoly422s-team/projects/tictactoe/builds/13a60071-6507-47a5-9172-2099abf68a43) |
+| **CurrencyConvertor** | React Native · TypeScript | Fast, accurate multi-currency converter | [Code](https://github.com/Anmoly6422/CurrencyConvertor) | — |
+| **Roll-The-Dice** | React Native · TypeScript | Animated dice roller with haptic feedback | [Code](https://github.com/Anmoly6422/Roll-The-Dice) | — |
+| **PassForge** | React Native · Formik · Yup | Glassmorphic password generator with strength meter | [Code](https://github.com/Anmoly6422/PassForge) | — |
+| **ItemFlow** | React Native · React Navigation | Item management with full CRUD workflows | [Code](https://github.com/Anmoly6422/ItemFlow) | — |
 
 </div>
-
 ---
 
 ## 📊 CHAPTER V — BY THE NUMBERS

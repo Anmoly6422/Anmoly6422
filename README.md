@@ -100,7 +100,7 @@ fun_fact: "I debug faster than I make chai ☕"
 
 | App | Stack | What it does | Code | APK |
 | :--- | :--- | :--- | :---: | :---: |
-| **ExpoMind** | React Native · Expo · TypeScript · Supabase · Gemini AI · RAG | AI-powered Expo documentation assistant implementing **RAG, vector embeddings, and similarity search** to retrieve relevant Expo SDK 57 documentation and generate contextual responses | [Code](https://github.com/Anmoly6422/expomind) | [APK](https://expo.dev/accounts/anmoly6422/projects/expomind/builds/8aa0526c-739b-4fb0-a160-aed961e8ea95) |
+| **ExpoMind** | React Native · Expo · TypeScript · Supabase · Gemini AI · RAG | AI-powered Expo documentation assistant implementing **RAG, vector embeddings, and similarity search** to retrieve relevant Expo SDK 57 documentation and generate contextual responses | [Code](https://github.com/Anmoly6422/expomind) | [APK](https://expo.dev/accounts/anmoly6422/projects/expomind/builds/24e386ce-4bbb-4c25-b2a9-14c9c071ec46) |
 | **KRIBB** | React Native · Expo · TypeScript | Real-estate app with Clerk auth, Supabase backend, search & favorites | [Code](https://github.com/Anmoly6422/Kribb) | [APK](https://expo.dev/accounts/anmoly6422s-team/projects/anmol/builds/b42c54b1-40f9-4c78-b6ff-ea71aa5c8d45) |
 | **Tic-Tac-Toe** | React Native · TypeScript | Two-player game with win/draw detection | [Code](https://github.com/Anmoly6422/TIC-TAC-TOE) | [APK](https://expo.dev/accounts/anmoly422s-team/projects/tictactoe/builds/13a60071-6507-47a5-9172-2099abf68a43) |
 | **CurrencyConvertor** | React Native · TypeScript | Fast, accurate multi-currency converter | [Code](https://github.com/Anmoly6422/CurrencyConvertor) | — |

@@ -86,6 +86,7 @@ fun_fact: "I debug faster than I make chai ☕"
 | **Portfolio** | React, Vite, Tailwind CSS, GSAP, Three.js, Framer Motion | [Explore →](https://heyanmol.vercel.app/) |
 | **Letterly** | Next.js, TypeScript, Tailwind CSS, AstraDB, Clerk, MUI | [Explore →](https://useletterly.vercel.app/) |
 | **Mystery Messages** | Next.js, React, TypeScript, MongoDB, NextAuth, Tailwind CSS | [Explore →](https://mystry-messages-drab.vercel.app/) |
+| **Cutly** | Next.js, React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS | [Explore →](https://usecutly.vercel.app/) |
 | **Job Application Tracker** | Next.js, React, TypeScript, MongoDB, NextAuth, Tailwind CSS, dnd-kit | [Explore →](https://job-application-tracker-five-lime.vercel.app/) |
 | **Event Planner** | Next.js, React, TypeScript, MongoDB, Tailwind CSS | [Explore →](https://event-planner-sepia-eight.vercel.app/) |
 | **Clown Fighter** | HTML5 Canvas API, CSS3, JavaScript | [Explore →](https://clownfighter.netlify.app/) |
